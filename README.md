@@ -20,3 +20,5 @@ We provide a sample data instance to illustrate the expected input format:
   "Coarse_I": "string",    # Coarse-Grained Textual description (Level-1)
   "Coarse_II": "string",      # Coarse-Grained Textual description (Level-2)
 }
+
+The full dataset will be released after the acceptance.
